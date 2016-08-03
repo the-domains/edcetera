@@ -1,0 +1,14 @@
+layout_spectrum: 0.9578650870826095
+typography_spectrum: 0.33380083180963993
+color:
+  brandStrength: 0.42530597699806094
+  lightness: 0.12406824203208089
+  saturation: 0.8098284672014415
+  rhythmicContrast: 0.9887212822213769
+  brandColors:
+    - '#262A33'
+    - '#8F8A86'
+    - '#5E5956'
+    - '#DAC4AD'
+    - '#F2F4E9'
+name: edcetera
